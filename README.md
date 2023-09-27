@@ -33,7 +33,7 @@ Use the user input to [search the ctp-zip-api](#search-by-zip-code). If the zip 
 
 ## The Zip and City search API documentation (ctp-zip-api)
 
-**API BASE URL:** https://ctp-zip-api.herokuapp.com/
+**API BASE URL:** https://ctp-zip-code-api.onrender.com/
 
 Below is a description of the relevant API endpoints:
 
@@ -83,7 +83,7 @@ Below is a description of the relevant API endpoints:
 
   Provide the zipcode in the url and you will receive a JSON response with an array containing an object for each city found. For example see:
 
-  https://ctp-zip-api.herokuapp.com/zip/10016
+  https://ctp-zip-code-api.onrender.com/zip/10016
 
 ### Search by City Name
 
@@ -127,4 +127,4 @@ Below is a description of the relevant API endpoints:
 
   Provide the city name in the url and you will receive a JSON response with an array containing all zip codes for that city:
 
-  https://ctp-zip-api.herokuapp.com/city/SPRINGFIELD
+  https://ctp-zip-code-api.onrender.com//city/SPRINGFIELD
