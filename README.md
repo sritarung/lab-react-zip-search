@@ -127,4 +127,4 @@ Below is a description of the relevant API endpoints:
 
   Provide the city name in the url and you will receive a JSON response with an array containing all zip codes for that city:
 
-  https://ctp-zip-code-api.onrender.com//city/SPRINGFIELD
+  https://ctp-zip-code-api.onrender.com/city/SPRINGFIELD
